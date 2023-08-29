@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a simple recipe page that shows that I can create headers, links, images, and text onto a webpage with the use of HTML elemnts. It also shows that I know how to use git since I have to publish my code into git.
