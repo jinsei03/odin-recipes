@@ -1,1 +1,4 @@
 # odin-recipes
+This project was made in order to practice all of the HTML knowledge I have acquired. So far this project consists of links that redirected to pages within the directory. I was able to practice the use of images, headers, and anchor tags with href(Links) in them. Every html file's boilerplate was written manually without the help of VSCode's auto boilerplate, which was good practice. I committed with messages and pushed the project using git. 
+
+I think the only thing that I was not able to practice within this project was the use of strong and em tags which makes the text bold with strong and italic with em.
