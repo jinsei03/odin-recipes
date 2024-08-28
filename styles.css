@@ -1,8 +1,28 @@
 body
 {
+    display: flex;
     background-color: black;
     color: white;
     font-size: 20px;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
 }
 
+div
+{
+    border: solid 5px;
+    padding: 45px 65px;
+}
+
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: red;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
