@@ -3,7 +3,7 @@ This project will demonstrate the basics taught in the Odin Project by making a 
 
 The basics that are going to be covered are:
 - html boilerplate
-- elements such as <ol>, <ul>, <a>
+- elements such as ol, ul, a
 - links
 - images
 
